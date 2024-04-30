@@ -1,0 +1,62 @@
+--- 
+files: 
+  certificate: 
+    ningboyongyao_com_bf5e5_ac1d5_1697068799_b155aeb9c9d422fd25ce9364f836a3e7: 
+      created: '1689233642'
+      domains: 
+        - ningboyongyao.com
+        - www.ningboyongyao.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “ningboyongyao.com”
+      id: ningboyongyao_com_bf5e5_ac1d5_1697068799_b155aeb9c9d422fd25ce9364f836a3e7
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      key_algorithm: rsaEncryption
+      modulus: bf5e5e893a3161521a51dae818513bf592dcda94a8875745aa117d2d18083996b649b80b135bca65a99efd28f4fdc75d0ff27e4fb1db79fd4d07437a76ddd80d19209bc938f916d49e3022fac67feadfa9c32e0630fe2c5cb7f839d8a02c02c096f3eaa6333dae23289bd357921405d973329fd78dfd78ad27c418054f815109d5df7a226e97614096c4d1d7c6b37a1b23bd0b75be59670a7223397458ee9552f26b0397dadbd6402fb35ba9a2b17bc4aacec7b6f0dfff1beaa2417c03a1bf07c3c32081543c98ec850a9c7d0ec89ca32bf6a891f46c69dc39ab171486d5d634e5f3a19fa16d931cf5caf9ef31de5f879bd1a34b00ad497f84fcfc94885ac1d5
+      modulus_length: 2048
+      not_after: '1697068799'
+      not_before: '1689206400'
+      serial: db4f2e4d7e986be05254c5a6e1124cb5
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: ningboyongyao.com
+      validation_type: dv
+  key: 
+    b7873_80323_8ad9b93d721bca6f93ba9ae07d6f4681: 
+      created: '1689231570'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “ningboyongyao.com”
+      id: b7873_80323_8ad9b93d721bca6f93ba9ae07d6f4681
+      key_algorithm: rsaEncryption
+      modulus: b7873aa4e6d29816824a8c98ca01c916b8a38f8c8faad80cc16b4fb9ba521d821cb716d990cb4e5af21e178f6e87a3e364792d2f4c599e4a936b63fc8be5a331415077e57bc52f964f885fa0ff00c4d5c63af5ee025e3a53e2d6e01e96d63f4616cf9fc750ae0979886f794d942735aed33ee1914aa24921d94c5f6d702a1653ba86eb4b479f46a42dcb54091717cb0cffb6de736daf41a8dc4aa600760a2255815d486ea9f1a1e31ea1a19f07395e52c2d886ed65a81484ba6f1f53909a5eca2cc4db4561978eaa2a665e21a01aec2e160e5e8b149efa2e447f569fcb499849ddd6bb0f0a09f77fadab291e0d287930bd663518ed74b9f25393ffce00680323
+      modulus_length: 2048
+    bf5e5_ac1d5_045b86ff1cd00df6b07a87d4748671e8: 
+      created: '1689233642'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “ningboyongyao.com” 1689233642.0
+      id: bf5e5_ac1d5_045b86ff1cd00df6b07a87d4748671e8
+      key_algorithm: rsaEncryption
+      modulus: bf5e5e893a3161521a51dae818513bf592dcda94a8875745aa117d2d18083996b649b80b135bca65a99efd28f4fdc75d0ff27e4fb1db79fd4d07437a76ddd80d19209bc938f916d49e3022fac67feadfa9c32e0630fe2c5cb7f839d8a02c02c096f3eaa6333dae23289bd357921405d973329fd78dfd78ad27c418054f815109d5df7a226e97614096c4d1d7c6b37a1b23bd0b75be59670a7223397458ee9552f26b0397dadbd6402fb35ba9a2b17bc4aacec7b6f0dfff1beaa2417c03a1bf07c3c32081543c98ec850a9c7d0ec89ca32bf6a891f46c69dc39ab171486d5d634e5f3a19fa16d931cf5caf9ef31de5f879bd1a34b00ad497f84fcfc94885ac1d5
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      bf5e5e893a3161521a51dae818513bf592dcda94a8875745aa117d2d18083996b649b80b135bca65a99efd28f4fdc75d0ff27e4fb1db79fd4d07437a76ddd80d19209bc938f916d49e3022fac67feadfa9c32e0630fe2c5cb7f839d8a02c02c096f3eaa6333dae23289bd357921405d973329fd78dfd78ad27c418054f815109d5df7a226e97614096c4d1d7c6b37a1b23bd0b75be59670a7223397458ee9552f26b0397dadbd6402fb35ba9a2b17bc4aacec7b6f0dfff1beaa2417c03a1bf07c3c32081543c98ec850a9c7d0ec89ca32bf6a891f46c69dc39ab171486d5d634e5f3a19fa16d931cf5caf9ef31de5f879bd1a34b00ad497f84fcfc94885ac1d5: 
+        ningboyongyao_com_bf5e5_ac1d5_1697068799_b155aeb9c9d422fd25ce9364f836a3e7: ~
+    subject.commonName: 
+      ningboyongyao.com: 
+        ningboyongyao_com_bf5e5_ac1d5_1697068799_b155aeb9c9d422fd25ce9364f836a3e7: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “ningboyongyao.com”: ningboyongyao_com_bf5e5_ac1d5_1697068799_b155aeb9c9d422fd25ce9364f836a3e7
+  key: 
+    friendly_name: 
+      Key for “ningboyongyao.com”: b7873_80323_8ad9b93d721bca6f93ba9ae07d6f4681
+      Key for “ningboyongyao.com” 1689233642.0: bf5e5_ac1d5_045b86ff1cd00df6b07a87d4748671e8
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      b7873aa4e6d29816824a8c98ca01c916b8a38f8c8faad80cc16b4fb9ba521d821cb716d990cb4e5af21e178f6e87a3e364792d2f4c599e4a936b63fc8be5a331415077e57bc52f964f885fa0ff00c4d5c63af5ee025e3a53e2d6e01e96d63f4616cf9fc750ae0979886f794d942735aed33ee1914aa24921d94c5f6d702a1653ba86eb4b479f46a42dcb54091717cb0cffb6de736daf41a8dc4aa600760a2255815d486ea9f1a1e31ea1a19f07395e52c2d886ed65a81484ba6f1f53909a5eca2cc4db4561978eaa2a665e21a01aec2e160e5e8b149efa2e447f569fcb499849ddd6bb0f0a09f77fadab291e0d287930bd663518ed74b9f25393ffce00680323: b7873_80323_8ad9b93d721bca6f93ba9ae07d6f4681
+      bf5e5e893a3161521a51dae818513bf592dcda94a8875745aa117d2d18083996b649b80b135bca65a99efd28f4fdc75d0ff27e4fb1db79fd4d07437a76ddd80d19209bc938f916d49e3022fac67feadfa9c32e0630fe2c5cb7f839d8a02c02c096f3eaa6333dae23289bd357921405d973329fd78dfd78ad27c418054f815109d5df7a226e97614096c4d1d7c6b37a1b23bd0b75be59670a7223397458ee9552f26b0397dadbd6402fb35ba9a2b17bc4aacec7b6f0dfff1beaa2417c03a1bf07c3c32081543c98ec850a9c7d0ec89ca32bf6a891f46c69dc39ab171486d5d634e5f3a19fa16d931cf5caf9ef31de5f879bd1a34b00ad497f84fcfc94885ac1d5: bf5e5_ac1d5_045b86ff1cd00df6b07a87d4748671e8
